@@ -17,4 +17,9 @@ public class DropDownSelect {
 		select.selectByVisibleText(text);
 	}
 	
+	public void SelectByValue(WebElement element,String text) {
+		select=new Select(element);
+		select.selectByValue(text);
+	}
+	
 }
