@@ -22,4 +22,9 @@ public class DropDownSelect {
 		select.selectByValue(text);
 	}
 	
+	public void deselectAllElements(WebElement element) {
+		select=new Select(element);
+		select.deselectAll();
+	}
+	
 }
