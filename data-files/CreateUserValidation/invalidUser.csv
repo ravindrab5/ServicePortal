@@ -1,0 +1,7 @@
+TECH,,shindemaasgp,dehuroadrqvouv,dehuroadpmnyen,412101,9917223832,alokscecer@sharklasers.com,Pune,Pune,Dound,First name is required,fnameErr
+TECH,alokscecer,,dehuroadrqvouv,dehuroadpmnyen,412101,9917223832,alokscecer@sharklasers.com,Pune,Pune,Dound,Last name is required,lnameErr
+TECH,alokscecer,shindemaasgp,,dehuroadpmnyen,412101,9917223832,alokscecer@sharklasers.com,Pune,Pune,Dound,Address Line 1 is required,add1Err
+TECH,alokscecer,shindemaasgp,dehuroadrqvouv,,412101,9917223832,alokscecer@sharklasers.com,Pune,Pune,Dound,Address Line 2 is required,add2Err
+TECH,alokscecer,shindemaasgp,dehuroadrqvouv,dehuroadpmnyen,,9917223832,alokscecer@sharklasers.com,Pune,Pune,Dound,6 digit Pin code is required,pinErr
+TECH,alokscecer,shindemaasgp,dehuroadrqvouv,dehuroadpmnyen,412101,,alokscecer@sharklasers.com,Pune,Pune,Dound,Mobile number is required,contactErr
+TECH,alokscecer,shindemaasgp,dehuroadrqvouv,dehuroadpmnyen,412101,9917223832,,Pune,Pune,Dound,Email Address required,emailErr
